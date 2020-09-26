@@ -1,0 +1,21 @@
+body {
+	background-image: url(images/circle-blues.png);
+}
+h1 {
+	color: black ;
+	text-align: center; font-size: 50px;
+}
+
+.login{
+	width: 1000px; height: 550px; margin: 0 auto;background: #282923;padding: 50px;
+	text-align: center;background-image: url(images/lock.jpg);
+}
+.us{
+	text-align: center;height:20px;width: 250px;padding: 10px;margin-bottom: 5px;margin-top: 5px;
+}
+.pass{
+	text-align: center;height:20px;width: 250px;padding: 10px;margin-bottom: 10px;margin-left: 3px;margin-top: 5px;
+}.sub{
+	height: 30px;width: 150px;
+}
+
